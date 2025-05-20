@@ -1,49 +1,57 @@
-# EX No.4.2. CUT SECTION OF SOLIDS
-## DATE:
-
-## AIM: 
+## EX No.4.2. CUT SECTION OF SOLIDS
+DATE:
+## AIM:
 To create the solid model from given drawing and section the solid model
 
-## REQUIREMENTS: 
-1. Autodesk fusion 360
-2. Windows 10
-3. 16 GB of RAM (integrated graphics recommend 1 GB or more)
-4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
+## REQUIREMENTS:
+Autodesk fusion 360
+Windows 10
+16 GB of RAM (integrated graphics recommend 1 GB or more)
+2.5 Mbps or faster download; 500 Kbps or faster upload
+#3 PROCEDURE:
+Open new file and then select sketch icon.
+Select the plane for sketching.
+Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
 
-## PROCEDURE:
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
+![1](https://github.com/user-attachments/assets/70bddd37-79b2-4a32-bfa6-9d02e5aa1640)
 
-![image](https://user-images.githubusercontent.com/113594316/198826239-a3d6ffd5-d409-46b0-ba88-3312e89e9834.png)
 
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
+Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch
 
-![image](https://user-images.githubusercontent.com/113594316/198826244-f377f387-16af-4f89-a57d-1808083ce178.png)
+![2](https://github.com/user-attachments/assets/881b8a7d-8a44-4c56-896f-c0527369c7cc)
 
-5.	Use inspect feature to measure the dimensions of sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198826250-0e2f4985-18d7-4a07-8b1e-9c9fab11ea41.png)
 
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
+Use inspect feature to measure the dimensions of sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198826257-ccfcfd0c-040a-459e-bb9f-93c375f9177f.png)
+![3](https://github.com/user-attachments/assets/9a57b71c-8ae8-437b-9e2d-c949956c7c46)
+
+
+
+After finishing the sketch use finish sketch option to finalize the sketch.
+
+
+
+![4](https://github.com/user-attachments/assets/cc3d8a83-84e4-4858-b9c5-9d4e92ce136b)
+
 
 7.Use extrude option to convert 3D model from sketch
 
-![image](https://user-images.githubusercontent.com/113594316/198826270-d55912b8-0a02-4b36-acb2-02e9b4b328fd.png)
+![5](https://github.com/user-attachments/assets/afd21328-318e-4cab-ac48-9776c9e92730)
 
- 8.Use revolve option to convert 2D to 3D.
- 
- ![image](https://user-images.githubusercontent.com/113594316/198826282-7a4844a8-0cb2-4573-8940-9a60356b7d04.png)
 
-## INPUT:
+8.Use revolve option to convert 2D to 3D.
 
-![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
+![6](https://github.com/user-attachments/assets/9d3b95e3-171f-40b4-af0f-d0912d8abc1c)
 
-## OUTPUT:
+
+INPUT:
+![7](https://github.com/user-attachments/assets/98063aaa-22ff-4e59-90ff-bd2b1077f0af)
+
+OUTPUT:
+
+![Screenshot 2025-04-30 110336](https://github.com/user-attachments/assets/24a2e955-0060-49e2-831a-230352c05b41)
 
 ## RESULT:
 Thus, the cut section for solid model is created.
-
 
